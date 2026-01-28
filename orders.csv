@@ -1,0 +1,1001 @@
+﻿order_id,customer_id,order_date,product_category,order_value,payment_method,delivered
+1,76,1/1/2023,Home,104,Wallet,1
+2,108,1/2/2023,Home,140,Cash,1
+3,156,1/3/2023,Books,82,Cash,1
+4,82,1/4/2023,Electronics,95,Cash,1
+5,77,1/5/2023,Clothing,40,Credit Card,1
+6,258,1/6/2023,Electronics,87,Wallet,1
+7,127,1/7/2023,Books,18,Wallet,1
+8,282,1/8/2023,Books,25,Cash,1
+9,88,1/9/2023,Clothing,19,UPI,1
+10,204,1/10/2023,Beauty,32,Credit Card,1
+11,16,1/11/2023,Beauty,17,UPI,1
+12,151,1/12/2023,Clothing,163,Debit Card,1
+13,254,1/13/2023,Beauty,19,Wallet,1
+14,188,1/14/2023,Home,5,Wallet,1
+15,32,1/15/2023,Beauty,37,UPI,1
+16,271,1/16/2023,Beauty,3,Credit Card,1
+17,5,1/17/2023,Beauty,6,Wallet,0
+18,169,1/18/2023,Home,12,UPI,1
+19,181,1/19/2023,Beauty,31,Credit Card,1
+20,178,1/20/2023,Home,28,UPI,1
+21,143,1/21/2023,Clothing,80,Credit Card,1
+22,248,1/22/2023,Electronics,67,Cash,1
+23,127,1/23/2023,Clothing,28,Credit Card,1
+24,263,1/24/2023,Electronics,20,Debit Card,1
+25,40,1/25/2023,Clothing,19,Cash,1
+26,255,1/26/2023,Electronics,74,UPI,1
+27,143,1/27/2023,Electronics,3,Cash,1
+28,240,1/28/2023,Books,1,Cash,1
+29,228,1/29/2023,Electronics,79,UPI,1
+30,198,1/30/2023,Electronics,32,UPI,1
+31,65,1/31/2023,Books,7,Debit Card,1
+32,11,2/1/2023,Beauty,13,UPI,1
+33,108,2/2/2023,Beauty,135,Wallet,1
+34,26,2/3/2023,Books,98,Wallet,1
+35,151,2/4/2023,Home,62,Debit Card,1
+36,221,2/5/2023,Electronics,33,Credit Card,1
+37,237,2/6/2023,Electronics,37,Credit Card,1
+38,237,2/7/2023,Books,185,Wallet,1
+39,219,2/8/2023,Books,169,UPI,1
+40,151,2/9/2023,Home,12,Debit Card,1
+41,123,2/10/2023,Beauty,83,Credit Card,1
+42,144,2/11/2023,Clothing,11,Credit Card,1
+43,189,2/12/2023,Beauty,12,Cash,1
+44,255,2/13/2023,Electronics,56,Wallet,0
+45,68,2/14/2023,Books,26,UPI,1
+46,104,2/15/2023,Home,134,Debit Card,1
+47,159,2/16/2023,Beauty,5,Credit Card,1
+48,90,2/17/2023,Home,36,Cash,1
+49,256,2/18/2023,Beauty,125,Wallet,1
+50,220,2/19/2023,Electronics,117,Wallet,0
+51,9,2/20/2023,Clothing,9,Debit Card,1
+52,12,2/21/2023,Home,23,Credit Card,1
+53,244,2/22/2023,Home,48,Debit Card,1
+54,182,2/23/2023,Clothing,9,Debit Card,1
+55,284,2/24/2023,Home,172,Cash,1
+56,99,2/25/2023,Home,123,Wallet,1
+57,197,2/26/2023,Beauty,9,UPI,1
+58,226,2/27/2023,Beauty,6,Wallet,0
+59,103,2/28/2023,Clothing,4,Wallet,1
+60,106,3/1/2023,Electronics,120,Cash,1
+61,58,3/2/2023,Home,11,UPI,1
+62,78,3/3/2023,Electronics,27,Credit Card,1
+63,75,3/4/2023,Clothing,30,UPI,1
+64,42,3/5/2023,Clothing,46,Credit Card,1
+65,181,3/6/2023,Beauty,4,UPI,1
+66,33,3/7/2023,Home,13,Debit Card,1
+67,71,3/8/2023,Books,134,UPI,1
+68,56,3/9/2023,Clothing,120,Cash,1
+69,105,3/10/2023,Home,76,Credit Card,1
+70,200,3/11/2023,Electronics,1,Wallet,1
+71,101,3/12/2023,Beauty,20,Cash,1
+72,256,3/13/2023,Electronics,49,Credit Card,1
+73,74,3/14/2023,Clothing,16,Credit Card,1
+74,171,3/15/2023,Clothing,120,Wallet,1
+75,143,3/16/2023,Electronics,50,Debit Card,1
+76,166,3/17/2023,Clothing,4,Cash,1
+77,261,3/18/2023,Home,120,Wallet,1
+78,221,3/19/2023,Clothing,158,Wallet,1
+79,83,3/20/2023,Beauty,4,Debit Card,1
+80,182,3/21/2023,Home,38,Cash,1
+81,10,3/22/2023,Books,18,Wallet,1
+82,4,3/23/2023,Clothing,25,Debit Card,1
+83,292,3/24/2023,Clothing,10,Cash,1
+84,281,3/25/2023,Beauty,43,UPI,1
+85,215,3/26/2023,Beauty,158,Credit Card,1
+86,98,3/27/2023,Electronics,35,Debit Card,1
+87,101,3/28/2023,Electronics,4,Credit Card,1
+88,9,3/29/2023,Electronics,48,UPI,0
+89,61,3/30/2023,Beauty,21,Wallet,1
+90,146,3/31/2023,Electronics,97,Wallet,1
+91,63,4/1/2023,Electronics,29,Cash,1
+92,121,4/2/2023,Books,11,Debit Card,1
+93,226,4/3/2023,Electronics,11,Debit Card,1
+94,105,4/4/2023,Clothing,73,Cash,1
+95,260,4/5/2023,Beauty,15,Credit Card,1
+96,255,4/6/2023,Home,73,Wallet,1
+97,207,4/7/2023,Books,12,Wallet,1
+98,28,4/8/2023,Beauty,19,Debit Card,1
+99,170,4/9/2023,Beauty,31,Debit Card,1
+100,76,4/10/2023,Clothing,143,Cash,1
+101,116,4/11/2023,Electronics,134,UPI,1
+102,69,4/12/2023,Clothing,12,Credit Card,1
+103,234,4/13/2023,Electronics,22,UPI,1
+104,1,4/14/2023,Electronics,8,UPI,1
+105,167,4/15/2023,Beauty,36,Debit Card,1
+106,218,4/16/2023,Electronics,31,Debit Card,0
+107,273,4/17/2023,Books,116,Debit Card,1
+108,251,4/18/2023,Books,133,UPI,1
+109,174,4/19/2023,Books,24,Credit Card,1
+110,170,4/20/2023,Beauty,34,Debit Card,1
+111,246,4/21/2023,Clothing,113,Wallet,1
+112,90,4/22/2023,Home,82,Credit Card,1
+113,49,4/23/2023,Electronics,0,Wallet,1
+114,294,4/24/2023,Home,19,Credit Card,1
+115,150,4/25/2023,Clothing,27,Debit Card,1
+116,132,4/26/2023,Clothing,13,Cash,1
+117,59,4/27/2023,Beauty,11,Debit Card,1
+118,199,4/28/2023,Books,2,UPI,1
+119,215,4/29/2023,Books,52,UPI,0
+120,49,4/30/2023,Clothing,15,Credit Card,1
+121,232,5/1/2023,Beauty,3,UPI,1
+122,247,5/2/2023,Beauty,13,Debit Card,1
+123,239,5/3/2023,Electronics,81,Wallet,1
+124,168,5/4/2023,Books,95,Debit Card,1
+125,48,5/5/2023,Clothing,33,Credit Card,1
+126,51,5/6/2023,Home,27,UPI,1
+127,299,5/7/2023,Books,191,Wallet,1
+128,98,5/8/2023,Electronics,11,Cash,1
+129,216,5/9/2023,Beauty,12,Wallet,1
+130,177,5/10/2023,Clothing,17,Wallet,1
+131,80,5/11/2023,Books,9,Debit Card,1
+132,185,5/12/2023,Home,24,Cash,1
+133,27,5/13/2023,Electronics,121,Credit Card,1
+134,195,5/14/2023,Electronics,48,Credit Card,1
+135,214,5/15/2023,Books,27,Wallet,1
+136,114,5/16/2023,Home,136,Wallet,1
+137,242,5/17/2023,Electronics,2,UPI,1
+138,124,5/18/2023,Clothing,12,Cash,1
+139,76,5/19/2023,Electronics,42,Wallet,1
+140,196,5/20/2023,Home,48,UPI,1
+141,44,5/21/2023,Beauty,2,Cash,1
+142,186,5/22/2023,Beauty,26,Credit Card,1
+143,246,5/23/2023,Books,52,UPI,1
+144,84,5/24/2023,Home,60,Cash,1
+145,207,5/25/2023,Electronics,51,UPI,1
+146,151,5/26/2023,Electronics,19,Wallet,1
+147,156,5/27/2023,Beauty,5,Debit Card,1
+148,16,5/28/2023,Beauty,28,Credit Card,1
+149,165,5/29/2023,Clothing,7,Wallet,1
+150,145,5/30/2023,Beauty,147,Wallet,1
+151,37,5/31/2023,Clothing,32,Cash,1
+152,45,6/1/2023,Electronics,19,UPI,1
+153,206,6/2/2023,Clothing,73,Credit Card,1
+154,62,6/3/2023,Clothing,34,Wallet,1
+155,19,6/4/2023,Books,19,Cash,1
+156,7,6/5/2023,Beauty,84,Credit Card,1
+157,249,6/6/2023,Clothing,101,UPI,1
+158,117,6/7/2023,Electronics,56,Wallet,1
+159,68,6/8/2023,Home,2,Wallet,1
+160,34,6/9/2023,Clothing,42,Wallet,1
+161,194,6/10/2023,Beauty,72,Credit Card,1
+162,55,6/11/2023,Books,7,Credit Card,1
+163,266,6/12/2023,Electronics,13,Credit Card,1
+164,42,6/13/2023,Books,107,Credit Card,1
+165,297,6/14/2023,Home,1,Cash,1
+166,231,6/15/2023,Clothing,70,Debit Card,1
+167,10,6/16/2023,Clothing,32,Cash,1
+168,128,6/17/2023,Beauty,30,Wallet,1
+169,179,6/18/2023,Clothing,0,Cash,1
+170,193,6/19/2023,Electronics,86,UPI,1
+171,92,6/20/2023,Home,22,Credit Card,1
+172,231,6/21/2023,Books,39,UPI,1
+173,78,6/22/2023,Home,57,UPI,1
+174,85,6/23/2023,Clothing,61,Wallet,1
+175,30,6/24/2023,Books,156,Credit Card,1
+176,213,6/25/2023,Beauty,38,UPI,1
+177,49,6/26/2023,Home,26,Wallet,1
+178,265,6/27/2023,Books,154,Credit Card,1
+179,145,6/28/2023,Books,51,Debit Card,1
+180,69,6/29/2023,Books,18,Wallet,1
+181,58,6/30/2023,Electronics,7,Cash,1
+182,185,7/1/2023,Home,92,Credit Card,1
+183,62,7/2/2023,Books,22,UPI,1
+184,296,7/3/2023,Home,54,UPI,1
+185,166,7/4/2023,Books,32,Cash,1
+186,171,7/5/2023,Beauty,11,Cash,0
+187,63,7/6/2023,Beauty,46,UPI,1
+188,147,7/7/2023,Beauty,3,Credit Card,1
+189,161,7/8/2023,Clothing,27,Wallet,1
+190,141,7/9/2023,Books,40,Cash,1
+191,97,7/10/2023,Clothing,29,Cash,1
+192,221,7/11/2023,Home,69,Cash,1
+193,43,7/12/2023,Clothing,88,Debit Card,1
+194,292,7/13/2023,Home,74,Credit Card,1
+195,108,7/14/2023,Home,2,Credit Card,1
+196,266,7/15/2023,Home,11,Credit Card,1
+197,95,7/16/2023,Clothing,38,Credit Card,1
+198,262,7/17/2023,Books,137,Credit Card,1
+199,71,7/18/2023,Clothing,90,UPI,1
+200,219,7/19/2023,Books,92,Cash,1
+201,21,7/20/2023,Books,18,UPI,1
+202,92,7/21/2023,Home,28,Debit Card,1
+203,127,7/22/2023,Clothing,32,Wallet,1
+204,80,7/23/2023,Books,9,Cash,1
+205,238,7/24/2023,Beauty,2,Debit Card,1
+206,182,7/25/2023,Books,147,UPI,1
+207,25,7/26/2023,Beauty,14,Wallet,1
+208,156,7/27/2023,Clothing,14,Debit Card,1
+209,5,7/28/2023,Clothing,4,Wallet,1
+210,120,7/29/2023,Clothing,132,Debit Card,1
+211,277,7/30/2023,Books,43,UPI,1
+212,18,7/31/2023,Electronics,55,Wallet,1
+213,198,8/1/2023,Books,121,Debit Card,1
+214,57,8/2/2023,Books,21,UPI,1
+215,93,8/3/2023,Home,49,Cash,1
+216,19,8/4/2023,Home,2,UPI,1
+217,193,8/5/2023,Books,10,UPI,1
+218,237,8/6/2023,Beauty,89,Cash,1
+219,277,8/7/2023,Home,73,UPI,1
+220,227,8/8/2023,Books,22,Cash,1
+221,233,8/9/2023,Electronics,24,Cash,1
+222,40,8/10/2023,Beauty,38,Cash,1
+223,153,8/11/2023,Clothing,0,Debit Card,1
+224,127,8/12/2023,Books,14,Wallet,1
+225,237,8/13/2023,Books,12,Debit Card,1
+226,55,8/14/2023,Beauty,14,Cash,1
+227,172,8/15/2023,Home,82,Wallet,1
+228,109,8/16/2023,Home,16,Wallet,1
+229,184,8/17/2023,Home,11,Cash,1
+230,198,8/18/2023,Clothing,35,Wallet,1
+231,87,8/19/2023,Beauty,100,Wallet,1
+232,201,8/20/2023,Beauty,14,Debit Card,1
+233,275,8/21/2023,Home,4,Wallet,1
+234,211,8/22/2023,Home,22,Cash,0
+235,118,8/23/2023,Electronics,69,Credit Card,1
+236,191,8/24/2023,Electronics,40,Credit Card,1
+237,42,8/25/2023,Books,85,Credit Card,1
+238,42,8/26/2023,Books,160,Cash,1
+239,276,8/27/2023,Beauty,79,Credit Card,1
+240,17,8/28/2023,Beauty,46,Debit Card,1
+241,283,8/29/2023,Clothing,34,Cash,1
+242,258,8/30/2023,Clothing,2,Cash,1
+243,63,8/31/2023,Electronics,208,Cash,1
+244,62,9/1/2023,Books,24,Wallet,1
+245,100,9/2/2023,Electronics,8,Wallet,1
+246,19,9/3/2023,Electronics,55,Wallet,1
+247,17,9/4/2023,Books,17,UPI,1
+248,246,9/5/2023,Clothing,44,Debit Card,1
+249,251,9/6/2023,Books,44,Cash,1
+250,81,9/7/2023,Home,30,Cash,1
+251,39,9/8/2023,Home,90,Wallet,1
+252,36,9/9/2023,Home,15,Cash,1
+253,197,9/10/2023,Beauty,30,Cash,1
+254,158,9/11/2023,Clothing,39,Credit Card,1
+255,204,9/12/2023,Clothing,54,Cash,1
+256,196,9/13/2023,Beauty,77,UPI,1
+257,216,9/14/2023,Electronics,25,Wallet,1
+258,285,9/15/2023,Home,52,Debit Card,1
+259,196,9/16/2023,Home,8,Debit Card,1
+260,152,9/17/2023,Electronics,135,Credit Card,1
+261,14,9/18/2023,Books,24,Debit Card,0
+262,146,9/19/2023,Books,65,Debit Card,1
+263,57,9/20/2023,Clothing,1,Wallet,1
+264,211,9/21/2023,Beauty,11,Wallet,1
+265,268,9/22/2023,Clothing,33,UPI,0
+266,210,9/23/2023,Books,105,Credit Card,1
+267,17,9/24/2023,Electronics,37,Debit Card,1
+268,286,9/25/2023,Clothing,133,UPI,1
+269,203,9/26/2023,Home,33,Credit Card,1
+270,99,9/27/2023,Home,34,Debit Card,0
+271,279,9/28/2023,Electronics,6,Debit Card,1
+272,209,9/29/2023,Books,81,Wallet,1
+273,129,9/30/2023,Home,14,Cash,1
+274,288,10/1/2023,Home,115,Credit Card,1
+275,252,10/2/2023,Beauty,121,Debit Card,0
+276,265,10/3/2023,Clothing,144,Credit Card,1
+277,271,10/4/2023,Books,37,UPI,1
+278,188,10/5/2023,Clothing,57,UPI,0
+279,214,10/6/2023,Books,75,Cash,1
+280,283,10/7/2023,Home,7,Debit Card,1
+281,211,10/8/2023,Beauty,46,Wallet,1
+282,76,10/9/2023,Clothing,2,Debit Card,1
+283,148,10/10/2023,Home,34,Credit Card,1
+284,213,10/11/2023,Books,8,UPI,1
+285,109,10/12/2023,Clothing,10,Credit Card,1
+286,129,10/13/2023,Clothing,23,Cash,1
+287,10,10/14/2023,Home,28,UPI,1
+288,47,10/15/2023,Clothing,49,Wallet,1
+289,96,10/16/2023,Beauty,4,UPI,1
+290,103,10/17/2023,Beauty,35,Debit Card,0
+291,146,10/18/2023,Home,10,Debit Card,1
+292,27,10/19/2023,Books,43,UPI,1
+293,220,10/20/2023,Home,51,Cash,1
+294,18,10/21/2023,Beauty,41,Debit Card,1
+295,167,10/22/2023,Electronics,67,Debit Card,1
+296,82,10/23/2023,Electronics,20,Wallet,1
+297,72,10/24/2023,Clothing,72,UPI,1
+298,254,10/25/2023,Clothing,28,Debit Card,1
+299,162,10/26/2023,Electronics,33,Cash,0
+300,38,10/27/2023,Beauty,52,Credit Card,1
+301,201,10/28/2023,Clothing,1,UPI,1
+302,200,10/29/2023,Home,53,Wallet,1
+303,255,10/30/2023,Home,48,Debit Card,1
+304,179,10/31/2023,Beauty,19,Cash,1
+305,35,11/1/2023,Clothing,4,UPI,1
+306,82,11/2/2023,Home,5,Cash,1
+307,220,11/3/2023,Clothing,128,Cash,1
+308,158,11/4/2023,Clothing,58,Wallet,0
+309,4,11/5/2023,Home,7,UPI,1
+310,167,11/6/2023,Electronics,22,Debit Card,1
+311,204,11/7/2023,Home,45,Wallet,1
+312,194,11/8/2023,Beauty,90,Debit Card,1
+313,235,11/9/2023,Books,2,Credit Card,1
+314,206,11/10/2023,Home,14,Cash,1
+315,150,11/11/2023,Clothing,110,Credit Card,1
+316,159,11/12/2023,Clothing,0,Cash,1
+317,279,11/13/2023,Home,11,Wallet,1
+318,166,11/14/2023,Books,160,Debit Card,1
+319,68,11/15/2023,Home,48,Debit Card,1
+320,88,11/16/2023,Books,15,Wallet,0
+321,217,11/17/2023,Books,3,UPI,1
+322,1,11/18/2023,Beauty,1,Credit Card,1
+323,135,11/19/2023,Clothing,14,Credit Card,1
+324,185,11/20/2023,Clothing,107,Debit Card,1
+325,140,11/21/2023,Books,27,Debit Card,1
+326,106,11/22/2023,Clothing,64,Debit Card,1
+327,133,11/23/2023,Electronics,125,Wallet,1
+328,108,11/24/2023,Books,26,UPI,1
+329,178,11/25/2023,Clothing,11,Credit Card,1
+330,298,11/26/2023,Electronics,36,Cash,1
+331,146,11/27/2023,Beauty,119,Wallet,1
+332,74,11/28/2023,Clothing,82,Credit Card,1
+333,108,11/29/2023,Electronics,3,UPI,1
+334,122,11/30/2023,Home,59,Wallet,1
+335,17,12/1/2023,Home,42,Credit Card,1
+336,196,12/2/2023,Electronics,119,Wallet,1
+337,297,12/3/2023,Books,7,Credit Card,1
+338,252,12/4/2023,Books,38,Credit Card,1
+339,119,12/5/2023,Clothing,106,UPI,1
+340,162,12/6/2023,Home,26,Cash,1
+341,198,12/7/2023,Books,33,UPI,1
+342,45,12/8/2023,Books,4,Credit Card,1
+343,179,12/9/2023,Home,16,Wallet,1
+344,44,12/10/2023,Beauty,20,UPI,1
+345,271,12/11/2023,Books,145,Cash,1
+346,78,12/12/2023,Electronics,17,Credit Card,1
+347,178,12/13/2023,Clothing,31,UPI,0
+348,3,12/14/2023,Books,56,UPI,1
+349,214,12/15/2023,Books,9,UPI,1
+350,74,12/16/2023,Beauty,33,UPI,1
+351,51,12/17/2023,Electronics,67,Wallet,1
+352,67,12/18/2023,Clothing,101,Cash,1
+353,93,12/19/2023,Books,49,Cash,1
+354,176,12/20/2023,Clothing,55,Credit Card,1
+355,145,12/21/2023,Home,7,Debit Card,1
+356,7,12/22/2023,Books,146,Wallet,1
+357,269,12/23/2023,Books,7,Credit Card,1
+358,4,12/24/2023,Home,75,Credit Card,1
+359,138,12/25/2023,Beauty,15,UPI,1
+360,231,12/26/2023,Books,136,Debit Card,1
+361,88,12/27/2023,Clothing,64,Debit Card,1
+362,17,12/28/2023,Electronics,70,Wallet,1
+363,52,12/29/2023,Clothing,12,Debit Card,1
+364,134,12/30/2023,Beauty,29,Credit Card,1
+365,211,12/31/2023,Electronics,48,Debit Card,1
+366,219,1/1/2024,Clothing,73,Debit Card,1
+367,205,1/2/2024,Clothing,5,Cash,1
+368,211,1/3/2024,Home,164,Credit Card,1
+369,277,1/4/2024,Beauty,110,Debit Card,1
+370,24,1/5/2024,Home,16,Debit Card,1
+371,4,1/6/2024,Electronics,87,UPI,1
+372,152,1/7/2024,Home,37,Debit Card,1
+373,259,1/8/2024,Beauty,31,Debit Card,1
+374,168,1/9/2024,Books,19,Cash,1
+375,176,1/10/2024,Books,43,Credit Card,1
+376,291,1/11/2024,Electronics,65,Wallet,1
+377,56,1/12/2024,Books,26,Credit Card,1
+378,108,1/13/2024,Home,50,UPI,0
+379,296,1/14/2024,Electronics,60,Credit Card,1
+380,141,1/15/2024,Beauty,62,Debit Card,1
+381,155,1/16/2024,Electronics,3,UPI,1
+382,262,1/17/2024,Electronics,98,Credit Card,1
+383,273,1/18/2024,Clothing,31,UPI,1
+384,232,1/19/2024,Clothing,15,Wallet,1
+385,241,1/20/2024,Electronics,14,Credit Card,1
+386,258,1/21/2024,Books,33,Debit Card,1
+387,249,1/22/2024,Clothing,109,UPI,1
+388,77,1/23/2024,Beauty,24,Cash,1
+389,180,1/24/2024,Home,69,UPI,0
+390,66,1/25/2024,Clothing,5,Cash,1
+391,171,1/26/2024,Electronics,32,Debit Card,1
+392,22,1/27/2024,Books,239,Wallet,1
+393,107,1/28/2024,Home,74,Cash,1
+394,227,1/29/2024,Clothing,12,Wallet,1
+395,216,1/30/2024,Books,35,UPI,1
+396,69,1/31/2024,Books,13,Debit Card,1
+397,84,2/1/2024,Books,26,Cash,1
+398,103,2/2/2024,Electronics,76,UPI,1
+399,39,2/3/2024,Beauty,74,Credit Card,1
+400,13,2/4/2024,Books,13,UPI,1
+401,297,2/5/2024,Home,128,Wallet,1
+402,181,2/6/2024,Clothing,45,Debit Card,1
+403,268,2/7/2024,Home,24,Debit Card,1
+404,13,2/8/2024,Electronics,35,UPI,1
+405,120,2/9/2024,Electronics,46,Credit Card,1
+406,57,2/10/2024,Home,41,Wallet,1
+407,40,2/11/2024,Beauty,33,UPI,1
+408,128,2/12/2024,Electronics,35,UPI,1
+409,173,2/13/2024,Electronics,10,Debit Card,1
+410,35,2/14/2024,Home,84,Wallet,0
+411,259,2/15/2024,Electronics,39,Credit Card,1
+412,5,2/16/2024,Beauty,7,Debit Card,1
+413,218,2/17/2024,Beauty,73,UPI,1
+414,11,2/18/2024,Beauty,135,Debit Card,1
+415,117,2/19/2024,Clothing,147,Debit Card,1
+416,184,2/20/2024,Beauty,23,Cash,1
+417,116,2/21/2024,Beauty,7,Debit Card,1
+418,162,2/22/2024,Clothing,37,Debit Card,1
+419,67,2/23/2024,Books,6,Wallet,1
+420,200,2/24/2024,Electronics,136,Debit Card,1
+421,31,2/25/2024,Beauty,10,Credit Card,1
+422,75,2/26/2024,Electronics,15,UPI,1
+423,237,2/27/2024,Home,26,Wallet,1
+424,66,2/28/2024,Electronics,24,Debit Card,1
+425,70,2/29/2024,Clothing,79,Credit Card,1
+426,297,3/1/2024,Electronics,30,UPI,1
+427,20,3/2/2024,Electronics,9,Wallet,1
+428,226,3/3/2024,Electronics,16,Credit Card,1
+429,199,3/4/2024,Books,36,Debit Card,1
+430,39,3/5/2024,Books,8,Cash,1
+431,145,3/6/2024,Home,47,Cash,1
+432,45,3/7/2024,Clothing,42,Wallet,1
+433,91,3/8/2024,Electronics,63,Credit Card,1
+434,238,3/9/2024,Electronics,139,UPI,1
+435,70,3/10/2024,Electronics,122,Credit Card,1
+436,166,3/11/2024,Electronics,146,Cash,1
+437,130,3/12/2024,Books,14,Wallet,1
+438,214,3/13/2024,Home,7,Debit Card,1
+439,89,3/14/2024,Beauty,18,Credit Card,1
+440,252,3/15/2024,Clothing,113,Cash,1
+441,72,3/16/2024,Electronics,179,UPI,1
+442,165,3/17/2024,Home,98,Wallet,1
+443,49,3/18/2024,Beauty,6,Debit Card,1
+444,52,3/19/2024,Home,147,Credit Card,0
+445,289,3/20/2024,Books,28,UPI,1
+446,278,3/21/2024,Beauty,0,Debit Card,1
+447,114,3/22/2024,Home,29,Cash,1
+448,239,3/23/2024,Books,2,Cash,1
+449,133,3/24/2024,Home,39,UPI,1
+450,274,3/25/2024,Home,21,Cash,1
+451,166,3/26/2024,Beauty,32,Wallet,1
+452,293,3/27/2024,Books,47,UPI,1
+453,243,3/28/2024,Electronics,102,Cash,1
+454,138,3/29/2024,Clothing,54,Credit Card,1
+455,79,3/30/2024,Beauty,28,Cash,1
+456,170,3/31/2024,Books,86,Wallet,1
+457,123,4/1/2024,Home,118,Debit Card,1
+458,176,4/2/2024,Books,6,Debit Card,1
+459,82,4/3/2024,Clothing,38,Cash,1
+460,87,4/4/2024,Clothing,17,Debit Card,1
+461,225,4/5/2024,Electronics,2,Cash,1
+462,16,4/6/2024,Electronics,55,Wallet,1
+463,163,4/7/2024,Clothing,99,Debit Card,1
+464,98,4/8/2024,Beauty,9,Credit Card,1
+465,156,4/9/2024,Beauty,84,Cash,1
+466,2,4/10/2024,Home,96,Debit Card,1
+467,169,4/11/2024,Electronics,123,Wallet,1
+468,92,4/12/2024,Home,15,Wallet,1
+469,181,4/13/2024,Electronics,117,Credit Card,1
+470,231,4/14/2024,Clothing,19,Wallet,1
+471,148,4/15/2024,Beauty,40,Wallet,0
+472,280,4/16/2024,Beauty,3,Debit Card,1
+473,189,4/17/2024,Clothing,2,Cash,1
+474,128,4/18/2024,Home,64,UPI,1
+475,7,4/19/2024,Home,29,Wallet,1
+476,47,4/20/2024,Books,15,Wallet,1
+477,53,4/21/2024,Electronics,11,UPI,1
+478,187,4/22/2024,Home,55,Wallet,0
+479,38,4/23/2024,Clothing,0,Debit Card,1
+480,226,4/24/2024,Home,82,Debit Card,1
+481,53,4/25/2024,Beauty,4,UPI,1
+482,224,4/26/2024,Electronics,11,Wallet,1
+483,154,4/27/2024,Books,24,Wallet,1
+484,48,4/28/2024,Electronics,33,Cash,1
+485,147,4/29/2024,Beauty,22,Wallet,1
+486,64,4/30/2024,Beauty,19,Debit Card,1
+487,182,5/1/2024,Beauty,166,Credit Card,1
+488,125,5/2/2024,Beauty,51,Credit Card,1
+489,179,5/3/2024,Clothing,1,Credit Card,1
+490,39,5/4/2024,Books,28,Credit Card,1
+491,260,5/5/2024,Beauty,104,Wallet,1
+492,3,5/6/2024,Beauty,18,Wallet,1
+493,64,5/7/2024,Home,5,Cash,1
+494,29,5/8/2024,Books,71,Wallet,0
+495,11,5/9/2024,Electronics,47,Credit Card,1
+496,97,5/10/2024,Books,42,UPI,1
+497,203,5/11/2024,Books,3,UPI,1
+498,21,5/12/2024,Books,8,Debit Card,1
+499,39,5/13/2024,Beauty,49,Debit Card,1
+500,223,5/14/2024,Beauty,12,Wallet,1
+501,102,5/15/2024,Clothing,35,UPI,1
+502,46,5/16/2024,Electronics,39,Credit Card,1
+503,66,5/17/2024,Home,17,Credit Card,1
+504,91,5/18/2024,Books,148,Credit Card,1
+505,164,5/19/2024,Electronics,92,Wallet,1
+506,111,5/20/2024,Electronics,64,Wallet,1
+507,123,5/21/2024,Clothing,4,Cash,1
+508,193,5/22/2024,Home,6,Credit Card,1
+509,99,5/23/2024,Books,34,Credit Card,1
+510,291,5/24/2024,Home,9,Wallet,1
+511,159,5/25/2024,Clothing,191,Wallet,1
+512,103,5/26/2024,Beauty,9,Cash,1
+513,281,5/27/2024,Electronics,33,Cash,1
+514,43,5/28/2024,Books,23,Debit Card,1
+515,84,5/29/2024,Beauty,51,UPI,1
+516,191,5/30/2024,Clothing,7,Credit Card,1
+517,51,5/31/2024,Home,28,Credit Card,1
+518,210,6/1/2024,Electronics,16,Cash,1
+519,126,6/2/2024,Books,109,Cash,1
+520,69,6/3/2024,Beauty,2,Debit Card,1
+521,265,6/4/2024,Beauty,123,UPI,1
+522,258,6/5/2024,Electronics,89,Debit Card,1
+523,188,6/6/2024,Home,18,UPI,1
+524,230,6/7/2024,Clothing,78,Credit Card,1
+525,189,6/8/2024,Home,2,Debit Card,1
+526,10,6/9/2024,Home,170,Cash,1
+527,114,6/10/2024,Home,37,Debit Card,1
+528,76,6/11/2024,Electronics,18,Debit Card,1
+529,164,6/12/2024,Electronics,23,Credit Card,1
+530,85,6/13/2024,Clothing,3,Cash,1
+531,49,6/14/2024,Home,227,Cash,1
+532,177,6/15/2024,Electronics,2,Wallet,1
+533,218,6/16/2024,Clothing,53,Wallet,1
+534,189,6/17/2024,Clothing,29,Wallet,1
+535,230,6/18/2024,Home,149,Credit Card,1
+536,255,6/19/2024,Books,14,Debit Card,1
+537,236,6/20/2024,Home,38,Cash,1
+538,26,6/21/2024,Books,33,Cash,1
+539,72,6/22/2024,Clothing,61,Debit Card,1
+540,261,6/23/2024,Electronics,4,Cash,1
+541,254,6/24/2024,Beauty,11,Debit Card,1
+542,271,6/25/2024,Clothing,12,Credit Card,1
+543,123,6/26/2024,Electronics,67,Credit Card,1
+544,144,6/27/2024,Clothing,10,Credit Card,1
+545,257,6/28/2024,Home,43,Debit Card,1
+546,144,6/29/2024,Books,12,Debit Card,1
+547,259,6/30/2024,Clothing,99,UPI,1
+548,47,7/1/2024,Electronics,143,Cash,1
+549,13,7/2/2024,Home,37,Cash,1
+550,208,7/3/2024,Beauty,22,UPI,1
+551,235,7/4/2024,Home,13,UPI,1
+552,149,7/5/2024,Books,3,Credit Card,1
+553,155,7/6/2024,Home,16,UPI,1
+554,166,7/7/2024,Beauty,53,Debit Card,1
+555,90,7/8/2024,Electronics,38,Wallet,1
+556,186,7/9/2024,Clothing,144,Debit Card,1
+557,174,7/10/2024,Books,25,UPI,1
+558,217,7/11/2024,Beauty,59,Cash,1
+559,264,7/12/2024,Books,34,Debit Card,1
+560,97,7/13/2024,Home,36,Cash,1
+561,117,7/14/2024,Books,16,Debit Card,1
+562,199,7/15/2024,Beauty,30,Cash,1
+563,21,7/16/2024,Clothing,32,Debit Card,1
+564,200,7/17/2024,Clothing,61,Cash,1
+565,248,7/18/2024,Books,141,Wallet,1
+566,276,7/19/2024,Electronics,20,Credit Card,1
+567,264,7/20/2024,Books,2,Debit Card,1
+568,58,7/21/2024,Home,34,Wallet,1
+569,31,7/22/2024,Clothing,39,Credit Card,1
+570,249,7/23/2024,Clothing,9,Debit Card,1
+571,93,7/24/2024,Clothing,71,Wallet,1
+572,265,7/25/2024,Electronics,210,Wallet,1
+573,271,7/26/2024,Electronics,146,Wallet,1
+574,94,7/27/2024,Beauty,11,UPI,1
+575,154,7/28/2024,Books,104,Cash,1
+576,285,7/29/2024,Books,61,Credit Card,1
+577,80,7/30/2024,Home,30,Cash,1
+578,292,7/31/2024,Clothing,39,Cash,1
+579,84,8/1/2024,Electronics,95,Cash,1
+580,37,8/2/2024,Home,33,Wallet,1
+581,232,8/3/2024,Home,23,Cash,1
+582,93,8/4/2024,Electronics,34,UPI,1
+583,102,8/5/2024,Books,43,Debit Card,1
+584,166,8/6/2024,Clothing,10,Wallet,1
+585,159,8/7/2024,Books,116,Credit Card,1
+586,14,8/8/2024,Home,56,Debit Card,1
+587,225,8/9/2024,Clothing,50,Debit Card,1
+588,73,8/10/2024,Beauty,5,Debit Card,1
+589,249,8/11/2024,Home,46,Cash,1
+590,91,8/12/2024,Books,6,Cash,1
+591,216,8/13/2024,Books,4,Wallet,1
+592,90,8/14/2024,Books,37,Cash,1
+593,29,8/15/2024,Electronics,26,Cash,1
+594,220,8/16/2024,Home,44,Cash,1
+595,215,8/17/2024,Clothing,5,Wallet,1
+596,221,8/18/2024,Books,28,Wallet,1
+597,42,8/19/2024,Books,10,UPI,1
+598,135,8/20/2024,Electronics,218,UPI,0
+599,42,8/21/2024,Clothing,41,UPI,1
+600,164,8/22/2024,Home,58,UPI,1
+601,283,8/23/2024,Beauty,20,Debit Card,1
+602,58,8/24/2024,Electronics,5,Debit Card,1
+603,25,8/25/2024,Home,186,UPI,1
+604,73,8/26/2024,Beauty,17,UPI,1
+605,129,8/27/2024,Books,28,Credit Card,0
+606,87,8/28/2024,Books,52,Debit Card,1
+607,153,8/29/2024,Clothing,1,Credit Card,1
+608,182,8/30/2024,Beauty,83,Credit Card,1
+609,125,8/31/2024,Books,38,Cash,1
+610,67,9/1/2024,Books,16,Wallet,1
+611,6,9/2/2024,Clothing,3,Debit Card,1
+612,125,9/3/2024,Home,9,UPI,1
+613,53,9/4/2024,Books,113,UPI,0
+614,66,9/5/2024,Electronics,58,Wallet,1
+615,82,9/6/2024,Electronics,14,Debit Card,1
+616,87,9/7/2024,Home,3,UPI,1
+617,2,9/8/2024,Beauty,59,UPI,0
+618,204,9/9/2024,Clothing,42,Cash,1
+619,150,9/10/2024,Electronics,26,Credit Card,1
+620,293,9/11/2024,Electronics,23,UPI,1
+621,103,9/12/2024,Home,12,Debit Card,1
+622,24,9/13/2024,Beauty,55,Wallet,1
+623,212,9/14/2024,Beauty,176,Cash,1
+624,65,9/15/2024,Home,10,Debit Card,1
+625,209,9/16/2024,Electronics,45,Cash,1
+626,251,9/17/2024,Clothing,28,Credit Card,1
+627,117,9/18/2024,Electronics,30,UPI,1
+628,116,9/19/2024,Beauty,15,Debit Card,1
+629,237,9/20/2024,Electronics,87,Wallet,1
+630,105,9/21/2024,Clothing,33,Credit Card,1
+631,259,9/22/2024,Books,39,Credit Card,1
+632,46,9/23/2024,Electronics,18,Cash,1
+633,216,9/24/2024,Home,10,Credit Card,1
+634,24,9/25/2024,Books,4,Debit Card,1
+635,35,9/26/2024,Home,63,Cash,1
+636,24,9/27/2024,Home,11,Credit Card,1
+637,28,9/28/2024,Home,59,Wallet,1
+638,16,9/29/2024,Electronics,25,Debit Card,1
+639,59,9/30/2024,Beauty,27,Wallet,1
+640,243,10/1/2024,Books,32,Wallet,0
+641,207,10/2/2024,Clothing,23,Cash,1
+642,271,10/3/2024,Beauty,5,UPI,1
+643,249,10/4/2024,Electronics,19,Cash,1
+644,267,10/5/2024,Home,54,Debit Card,1
+645,193,10/6/2024,Clothing,55,Debit Card,1
+646,218,10/7/2024,Books,17,Cash,1
+647,115,10/8/2024,Beauty,31,UPI,1
+648,68,10/9/2024,Beauty,11,Cash,1
+649,299,10/10/2024,Clothing,12,Debit Card,1
+650,75,10/11/2024,Electronics,1,UPI,1
+651,103,10/12/2024,Books,114,Debit Card,1
+652,297,10/13/2024,Clothing,12,UPI,1
+653,178,10/14/2024,Home,13,UPI,1
+654,215,10/15/2024,Books,16,Cash,1
+655,39,10/16/2024,Beauty,7,Cash,1
+656,259,10/17/2024,Clothing,51,Cash,1
+657,204,10/18/2024,Beauty,4,UPI,1
+658,7,10/19/2024,Beauty,7,UPI,1
+659,49,10/20/2024,Beauty,52,Debit Card,1
+660,26,10/21/2024,Electronics,21,Wallet,1
+661,161,10/22/2024,Beauty,62,Cash,1
+662,176,10/23/2024,Home,41,Debit Card,0
+663,79,10/24/2024,Home,15,Debit Card,1
+664,2,10/25/2024,Books,53,Credit Card,1
+665,132,10/26/2024,Beauty,6,Cash,1
+666,276,10/27/2024,Beauty,38,Debit Card,1
+667,117,10/28/2024,Clothing,29,Credit Card,1
+668,164,10/29/2024,Electronics,16,Cash,1
+669,288,10/30/2024,Books,46,UPI,1
+670,28,10/31/2024,Beauty,103,Credit Card,1
+671,1,11/1/2024,Clothing,341,UPI,1
+672,188,11/2/2024,Electronics,47,Wallet,1
+673,56,11/3/2024,Books,26,Wallet,1
+674,35,11/4/2024,Books,13,Wallet,1
+675,112,11/5/2024,Beauty,15,Wallet,1
+676,286,11/6/2024,Books,33,Debit Card,0
+677,36,11/7/2024,Clothing,23,Wallet,1
+678,217,11/8/2024,Books,123,Debit Card,1
+679,80,11/9/2024,Home,23,Debit Card,1
+680,83,11/10/2024,Clothing,23,Cash,1
+681,65,11/11/2024,Electronics,24,Debit Card,1
+682,128,11/12/2024,Electronics,91,Debit Card,1
+683,22,11/13/2024,Beauty,53,Wallet,1
+684,216,11/14/2024,Beauty,48,Debit Card,1
+685,107,11/15/2024,Home,20,UPI,1
+686,109,11/16/2024,Electronics,85,Wallet,1
+687,181,11/17/2024,Electronics,2,Credit Card,1
+688,164,11/18/2024,Electronics,102,Wallet,1
+689,68,11/19/2024,Electronics,36,Debit Card,1
+690,292,11/20/2024,Books,25,UPI,1
+691,180,11/21/2024,Clothing,34,Wallet,0
+692,181,11/22/2024,Clothing,55,UPI,1
+693,169,11/23/2024,Home,1,Credit Card,1
+694,22,11/24/2024,Books,103,Credit Card,1
+695,66,11/25/2024,Electronics,30,Cash,1
+696,21,11/26/2024,Electronics,21,Cash,1
+697,100,11/27/2024,Beauty,7,Wallet,1
+698,103,11/28/2024,Beauty,29,Cash,1
+699,47,11/29/2024,Home,34,UPI,1
+700,39,11/30/2024,Electronics,26,Cash,1
+701,285,12/1/2024,Home,57,UPI,1
+702,90,12/2/2024,Books,27,Cash,1
+703,85,12/3/2024,Clothing,163,Cash,1
+704,273,12/4/2024,Electronics,46,Cash,0
+705,188,12/5/2024,Books,82,Debit Card,1
+706,159,12/6/2024,Electronics,6,Debit Card,1
+707,243,12/7/2024,Beauty,25,Cash,1
+708,73,12/8/2024,Home,21,UPI,1
+709,49,12/9/2024,Beauty,42,Wallet,1
+710,101,12/10/2024,Clothing,99,Credit Card,1
+711,2,12/11/2024,Beauty,4,Debit Card,1
+712,244,12/12/2024,Electronics,4,Cash,1
+713,176,12/13/2024,Beauty,95,Credit Card,1
+714,238,12/14/2024,Electronics,12,Debit Card,1
+715,59,12/15/2024,Clothing,55,Wallet,1
+716,99,12/16/2024,Beauty,39,UPI,1
+717,2,12/17/2024,Home,89,Cash,1
+718,243,12/18/2024,Home,7,Wallet,1
+719,297,12/19/2024,Home,7,Debit Card,1
+720,211,12/20/2024,Beauty,41,Cash,1
+721,123,12/21/2024,Beauty,146,Credit Card,1
+722,229,12/22/2024,Beauty,27,UPI,1
+723,82,12/23/2024,Electronics,20,Debit Card,1
+724,144,12/24/2024,Clothing,47,UPI,1
+725,140,12/25/2024,Home,133,Cash,1
+726,29,12/26/2024,Electronics,91,Wallet,1
+727,270,12/27/2024,Home,270,UPI,1
+728,247,12/28/2024,Electronics,1,Credit Card,1
+729,12,12/29/2024,Beauty,6,Debit Card,1
+730,106,12/30/2024,Home,47,Credit Card,1
+731,32,12/31/2024,Beauty,86,UPI,1
+732,74,1/1/2025,Home,17,Wallet,1
+733,171,1/2/2025,Books,14,Wallet,1
+734,69,1/3/2025,Electronics,77,Credit Card,1
+735,137,1/4/2025,Books,3,Cash,1
+736,100,1/5/2025,Electronics,23,Cash,1
+737,146,1/6/2025,Clothing,35,Wallet,1
+738,9,1/7/2025,Home,41,Credit Card,1
+739,62,1/8/2025,Clothing,65,Credit Card,1
+740,185,1/9/2025,Clothing,22,Credit Card,1
+741,29,1/10/2025,Electronics,47,UPI,1
+742,114,1/11/2025,Books,44,Cash,1
+743,143,1/12/2025,Beauty,40,Cash,1
+744,120,1/13/2025,Electronics,51,UPI,1
+745,170,1/14/2025,Beauty,15,Debit Card,1
+746,157,1/15/2025,Clothing,4,UPI,1
+747,260,1/16/2025,Beauty,6,Credit Card,1
+748,82,1/17/2025,Books,13,UPI,1
+749,242,1/18/2025,Electronics,35,Credit Card,1
+750,172,1/19/2025,Books,92,Wallet,1
+751,231,1/20/2025,Books,60,Credit Card,1
+752,208,1/21/2025,Electronics,78,Cash,1
+753,75,1/22/2025,Books,22,UPI,1
+754,270,1/23/2025,Home,26,Credit Card,1
+755,114,1/24/2025,Home,25,Debit Card,1
+756,62,1/25/2025,Home,11,Wallet,1
+757,102,1/26/2025,Beauty,3,Debit Card,1
+758,210,1/27/2025,Books,45,Debit Card,1
+759,255,1/28/2025,Electronics,226,Debit Card,1
+760,20,1/29/2025,Electronics,9,Wallet,1
+761,58,1/30/2025,Beauty,2,Wallet,1
+762,112,1/31/2025,Electronics,76,Wallet,1
+763,196,2/1/2025,Home,15,Wallet,1
+764,92,2/2/2025,Books,88,Debit Card,1
+765,52,2/3/2025,Electronics,61,Cash,1
+766,293,2/4/2025,Electronics,146,Cash,1
+767,8,2/5/2025,Clothing,26,Wallet,1
+768,98,2/6/2025,Clothing,54,UPI,1
+769,236,2/7/2025,Clothing,31,Credit Card,1
+770,69,2/8/2025,Books,50,UPI,1
+771,45,2/9/2025,Home,30,UPI,1
+772,137,2/10/2025,Home,10,UPI,1
+773,234,2/11/2025,Home,35,Cash,1
+774,32,2/12/2025,Books,38,Credit Card,1
+775,289,2/13/2025,Books,83,UPI,1
+776,126,2/14/2025,Clothing,67,Wallet,1
+777,67,2/15/2025,Electronics,55,Cash,1
+778,30,2/16/2025,Beauty,6,Wallet,1
+779,114,2/17/2025,Beauty,64,Wallet,1
+780,204,2/18/2025,Electronics,35,UPI,1
+781,29,2/19/2025,Clothing,112,Wallet,1
+782,131,2/20/2025,Electronics,126,Credit Card,1
+783,185,2/21/2025,Electronics,3,Wallet,1
+784,253,2/22/2025,Beauty,86,UPI,1
+785,286,2/23/2025,Clothing,2,Wallet,1
+786,62,2/24/2025,Books,23,Cash,1
+787,3,2/25/2025,Beauty,39,Cash,1
+788,68,2/26/2025,Books,8,Cash,1
+789,25,2/27/2025,Clothing,69,Debit Card,1
+790,179,2/28/2025,Electronics,0,Cash,1
+791,141,3/1/2025,Home,9,Cash,1
+792,231,3/2/2025,Home,43,Debit Card,1
+793,163,3/3/2025,Clothing,63,Cash,1
+794,130,3/4/2025,Home,124,UPI,1
+795,246,3/5/2025,Books,61,Cash,1
+796,297,3/6/2025,Home,56,Cash,1
+797,172,3/7/2025,Clothing,25,Debit Card,1
+798,64,3/8/2025,Clothing,0,UPI,1
+799,31,3/9/2025,Books,6,Wallet,1
+800,47,3/10/2025,Home,38,Credit Card,1
+801,130,3/11/2025,Home,56,UPI,1
+802,110,3/12/2025,Electronics,27,Wallet,1
+803,69,3/13/2025,Beauty,66,UPI,1
+804,58,3/14/2025,Clothing,37,Wallet,1
+805,106,3/15/2025,Electronics,4,Wallet,1
+806,256,3/16/2025,Clothing,11,UPI,0
+807,171,3/17/2025,Electronics,92,Debit Card,1
+808,162,3/18/2025,Beauty,65,UPI,1
+809,286,3/19/2025,Electronics,113,UPI,1
+810,71,3/20/2025,Clothing,6,Wallet,1
+811,255,3/21/2025,Home,231,Credit Card,1
+812,55,3/22/2025,Clothing,12,Wallet,1
+813,3,3/23/2025,Books,1,Cash,1
+814,26,3/24/2025,Books,298,UPI,1
+815,126,3/25/2025,Books,17,UPI,1
+816,53,3/26/2025,Books,55,Debit Card,1
+817,198,3/27/2025,Beauty,10,Wallet,1
+818,299,3/28/2025,Home,43,Debit Card,1
+819,188,3/29/2025,Home,117,UPI,1
+820,186,3/30/2025,Clothing,19,Wallet,1
+821,298,3/31/2025,Electronics,55,Wallet,0
+822,204,4/1/2025,Clothing,10,Cash,0
+823,11,4/2/2025,Clothing,49,Cash,1
+824,146,4/3/2025,Clothing,21,Credit Card,1
+825,85,4/4/2025,Clothing,12,Cash,0
+826,100,4/5/2025,Home,19,Wallet,1
+827,104,4/6/2025,Electronics,10,Cash,1
+828,46,4/7/2025,Clothing,116,Credit Card,1
+829,44,4/8/2025,Home,25,UPI,1
+830,278,4/9/2025,Clothing,14,Cash,1
+831,181,4/10/2025,Books,30,Wallet,1
+832,187,4/11/2025,Clothing,19,UPI,1
+833,114,4/12/2025,Clothing,68,Wallet,1
+834,255,4/13/2025,Beauty,177,UPI,1
+835,30,4/14/2025,Books,29,Wallet,1
+836,264,4/15/2025,Electronics,99,Cash,1
+837,98,4/16/2025,Clothing,42,Cash,1
+838,115,4/17/2025,Electronics,9,Credit Card,1
+839,276,4/18/2025,Books,59,UPI,1
+840,281,4/19/2025,Clothing,36,Credit Card,1
+841,275,4/20/2025,Beauty,53,Debit Card,1
+842,261,4/21/2025,Home,110,Cash,1
+843,207,4/22/2025,Beauty,29,UPI,1
+844,211,4/23/2025,Beauty,116,Credit Card,1
+845,215,4/24/2025,Home,69,Credit Card,1
+846,40,4/25/2025,Home,34,Debit Card,1
+847,26,4/26/2025,Home,46,Credit Card,1
+848,27,4/27/2025,Clothing,20,Wallet,1
+849,190,4/28/2025,Electronics,206,Cash,1
+850,83,4/29/2025,Electronics,55,Credit Card,1
+851,170,4/30/2025,Home,2,Credit Card,1
+852,167,5/1/2025,Beauty,20,Debit Card,1
+853,188,5/2/2025,Books,49,Wallet,1
+854,169,5/3/2025,Home,3,Credit Card,1
+855,289,5/4/2025,Beauty,1,Cash,1
+856,229,5/5/2025,Beauty,30,Cash,1
+857,97,5/6/2025,Clothing,20,Credit Card,1
+858,16,5/7/2025,Clothing,29,Wallet,1
+859,279,5/8/2025,Electronics,15,Cash,1
+860,135,5/9/2025,Electronics,9,Cash,1
+861,26,5/10/2025,Books,58,Wallet,1
+862,12,5/11/2025,Books,36,Wallet,1
+863,72,5/12/2025,Books,11,Credit Card,1
+864,133,5/13/2025,Books,19,UPI,0
+865,106,5/14/2025,Beauty,45,Debit Card,1
+866,220,5/15/2025,Beauty,4,UPI,1
+867,177,5/16/2025,Electronics,8,UPI,1
+868,282,5/17/2025,Clothing,4,Cash,1
+869,133,5/18/2025,Clothing,84,Wallet,1
+870,22,5/19/2025,Home,70,Cash,1
+871,269,5/20/2025,Beauty,70,Debit Card,0
+872,161,5/21/2025,Books,63,Credit Card,1
+873,107,5/22/2025,Books,55,Debit Card,1
+874,279,5/23/2025,Home,32,Cash,1
+875,235,5/24/2025,Clothing,51,Cash,1
+876,18,5/25/2025,Books,2,Cash,1
+877,242,5/26/2025,Clothing,49,Cash,1
+878,117,5/27/2025,Home,75,UPI,1
+879,286,5/28/2025,Clothing,35,Credit Card,1
+880,282,5/29/2025,Clothing,22,UPI,1
+881,144,5/30/2025,Clothing,16,Cash,1
+882,205,5/31/2025,Books,51,Wallet,1
+883,39,6/1/2025,Electronics,59,UPI,1
+884,154,6/2/2025,Beauty,102,Cash,1
+885,176,6/3/2025,Clothing,21,Cash,1
+886,241,6/4/2025,Clothing,73,Credit Card,1
+887,134,6/5/2025,Clothing,41,Debit Card,0
+888,46,6/6/2025,Electronics,107,UPI,1
+889,50,6/7/2025,Home,38,UPI,1
+890,166,6/8/2025,Books,36,UPI,1
+891,106,6/9/2025,Electronics,43,Cash,1
+892,216,6/10/2025,Clothing,69,Credit Card,1
+893,146,6/11/2025,Electronics,167,Cash,1
+894,72,6/12/2025,Electronics,4,Cash,1
+895,273,6/13/2025,Electronics,3,Wallet,1
+896,247,6/14/2025,Home,139,Credit Card,1
+897,186,6/15/2025,Beauty,38,UPI,1
+898,70,6/16/2025,Books,48,Debit Card,1
+899,150,6/17/2025,Home,33,UPI,1
+900,246,6/18/2025,Home,5,Cash,1
+901,262,6/19/2025,Beauty,73,Credit Card,1
+902,26,6/20/2025,Home,69,Credit Card,1
+903,140,6/21/2025,Electronics,19,Credit Card,1
+904,99,6/22/2025,Electronics,18,Wallet,1
+905,278,6/23/2025,Clothing,91,UPI,1
+906,51,6/24/2025,Home,4,Wallet,1
+907,151,6/25/2025,Clothing,106,Debit Card,1
+908,104,6/26/2025,Books,15,Cash,1
+909,89,6/27/2025,Electronics,45,Wallet,1
+910,141,6/28/2025,Books,137,Wallet,1
+911,213,6/29/2025,Beauty,57,Cash,1
+912,233,6/30/2025,Electronics,27,Credit Card,0
+913,183,7/1/2025,Books,58,Cash,1
+914,251,7/2/2025,Beauty,21,UPI,1
+915,9,7/3/2025,Books,16,Cash,1
+916,79,7/4/2025,Beauty,285,Credit Card,1
+917,52,7/5/2025,Beauty,69,Cash,0
+918,269,7/6/2025,Electronics,52,Wallet,1
+919,226,7/7/2025,Clothing,22,Debit Card,1
+920,51,7/8/2025,Beauty,3,Wallet,1
+921,186,7/9/2025,Beauty,2,Debit Card,1
+922,34,7/10/2025,Electronics,40,Cash,1
+923,291,7/11/2025,Clothing,72,UPI,1
+924,230,7/12/2025,Home,39,Cash,1
+925,131,7/13/2025,Home,92,Credit Card,1
+926,120,7/14/2025,Clothing,2,Cash,1
+927,247,7/15/2025,Books,23,Debit Card,1
+928,192,7/16/2025,Electronics,14,Wallet,1
+929,210,7/17/2025,Clothing,30,UPI,1
+930,103,7/18/2025,Home,4,Cash,1
+931,133,7/19/2025,Beauty,154,Cash,1
+932,139,7/20/2025,Home,13,Wallet,1
+933,121,7/21/2025,Beauty,128,UPI,1
+934,94,7/22/2025,Electronics,28,Cash,1
+935,129,7/23/2025,Beauty,212,Cash,1
+936,91,7/24/2025,Clothing,40,Debit Card,1
+937,92,7/25/2025,Beauty,134,Debit Card,1
+938,63,7/26/2025,Books,0,Credit Card,1
+939,29,7/27/2025,Clothing,69,Wallet,1
+940,210,7/28/2025,Electronics,117,UPI,1
+941,12,7/29/2025,Clothing,8,Cash,1
+942,297,7/30/2025,Books,5,Cash,1
+943,130,7/31/2025,Electronics,28,Credit Card,1
+944,293,8/1/2025,Home,136,Cash,1
+945,173,8/2/2025,Books,39,Wallet,1
+946,208,8/3/2025,Electronics,37,Credit Card,1
+947,24,8/4/2025,Beauty,8,Wallet,1
+948,99,8/5/2025,Clothing,0,Credit Card,1
+949,139,8/6/2025,Electronics,83,Cash,1
+950,174,8/7/2025,Clothing,5,Credit Card,1
+951,29,8/8/2025,Beauty,50,Debit Card,1
+952,143,8/9/2025,Electronics,123,UPI,1
+953,42,8/10/2025,Home,12,Cash,1
+954,299,8/11/2025,Books,55,UPI,1
+955,208,8/12/2025,Electronics,4,Cash,1
+956,192,8/13/2025,Beauty,46,UPI,1
+957,160,8/14/2025,Electronics,9,Debit Card,1
+958,64,8/15/2025,Clothing,67,UPI,1
+959,243,8/16/2025,Electronics,18,Credit Card,1
+960,258,8/17/2025,Home,31,UPI,1
+961,152,8/18/2025,Electronics,46,Cash,1
+962,215,8/19/2025,Books,9,Wallet,1
+963,166,8/20/2025,Electronics,68,UPI,1
+964,31,8/21/2025,Clothing,18,UPI,0
+965,232,8/22/2025,Electronics,54,UPI,1
+966,282,8/23/2025,Home,9,Cash,1
+967,29,8/24/2025,Beauty,58,UPI,1
+968,195,8/25/2025,Electronics,7,Cash,1
+969,256,8/26/2025,Electronics,28,Cash,1
+970,281,8/27/2025,Books,14,Wallet,1
+971,294,8/28/2025,Home,69,Credit Card,1
+972,87,8/29/2025,Beauty,15,Cash,1
+973,149,8/30/2025,Clothing,107,Debit Card,0
+974,249,8/31/2025,Electronics,111,UPI,1
+975,283,9/1/2025,Beauty,11,Debit Card,1
+976,198,9/2/2025,Clothing,48,UPI,1
+977,44,9/3/2025,Home,5,Wallet,1
+978,28,9/4/2025,Home,25,Cash,1
+979,17,9/5/2025,Beauty,62,Credit Card,1
+980,127,9/6/2025,Clothing,54,Cash,1
+981,168,9/7/2025,Home,49,UPI,1
+982,244,9/8/2025,Beauty,17,Credit Card,1
+983,76,9/9/2025,Home,24,Cash,1
+984,231,9/10/2025,Home,5,Credit Card,1
+985,204,9/11/2025,Home,63,UPI,1
+986,248,9/12/2025,Books,35,Wallet,1
+987,214,9/13/2025,Clothing,62,Wallet,1
+988,215,9/14/2025,Beauty,14,Cash,1
+989,158,9/15/2025,Beauty,20,Debit Card,1
+990,69,9/16/2025,Clothing,20,UPI,1
+991,85,9/17/2025,Clothing,1,Cash,1
+992,267,9/18/2025,Clothing,21,Cash,1
+993,69,9/19/2025,Clothing,81,Wallet,1
+994,99,9/20/2025,Electronics,114,Credit Card,1
+995,216,9/21/2025,Beauty,37,UPI,1
+996,161,9/22/2025,Electronics,30,Credit Card,1
+997,94,9/23/2025,Home,2,UPI,1
+998,174,9/24/2025,Home,106,Debit Card,1
+999,165,9/25/2025,Beauty,1,Wallet,1
+1000,115,9/26/2025,Home,145,Debit Card,1
