@@ -16,4 +16,13 @@ The project is organized into five logical steps to ensure a clean and reproduci
   - Which Payment Method has been used for the most transactions.
   - Find the top 3 customers in each city based on their total spending.
   -  Which are the top 3 best-selling product categories by total sales.
+
+## Tech Stack & Skills
+Database: PostgreSQL
+SQL Concepts: * Data Definition (DDL): Creating and managing table structures.
+Data Manipulation (DML): Cleaning and updating records.
+Joins: Inner and Left joins to connect customers, orders, and reviews.
+Aggregations: Grouping data for revenue and rating summaries.
+Window Functions: Using DENSE_RANK() to rank customers by geography.
+CTEs (Common Table Expressions): Writing readable, multi-step queries.
    
