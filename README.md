@@ -26,4 +26,7 @@ Database: PostgreSQL
 - Aggregations: Grouping data for revenue and rating summaries.
 - Window Functions: Using DENSE_RANK() to rank customers by geography.
 - CTEs (Common Table Expressions): Writing readable, multi-step queries.
+
+## Final Conclusion
+This project allowed me to apply data analysis techniques to solve real-world e-commerce problems. I learned how to handle real-world data issues like missing values and invalid entries before performing analysis. The final queries provide essential business insights into sales trends and customer loyalty, underscoring that clean data and well-structured SQL are the foundations of sound business decisions.
    
